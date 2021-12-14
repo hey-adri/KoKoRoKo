@@ -14,3 +14,5 @@ BTW if you're going to try and do this yourself note that when an alarm cancella
 At last, in case you still want to do it, you can implement the off-site wake up service as you will but it was pretty simple to me to implement it in an android app called macrodroid with the webhook action as trigger.
 
 That's it, hope it was interesting 
+
+PD: This is my first app, so please, don't judge 😅😅
