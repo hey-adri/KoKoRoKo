@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KoKoRoKo</string>
+    <string name="new_alarm">Poner un Pollo</string>
+    <string name="cancel_alarms">Comerse a Pollo</string>
+    <string name="the_alarm_will_be_set_at_time_text">Pollo chillará a las</string>
+    <string name="greeting_message_text">Hola, soy Pollo</string>
+    <string name="alarm_has_been_cancelled_text">Lo que corre, nada o vuela, a la cazuela</string>
+    <string name="the_following_variables_dont_have_value">Los siguientes valores están vacios:</string>
+    <string name="preferences_have_been_stored">Tus preferencias se han guardado!</string>
+    <string name="sounds">Sonidos</string>
+    <string name="scan_webhhok_qr_code">Escanee el Código de Ajuste</string>
+    <string name="settings">Ajustes</string>
+    <string name="done">Hecho</string>
+</resources>

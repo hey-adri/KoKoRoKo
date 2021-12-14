@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KoKoRoKo</string>
+    <string name="new_alarm">Set up Chicken</string>
+    <string name="cancel_alarms">Eat Chicken</string>
+    <string name="the_alarm_will_be_set_at_time_text">Chicken will wake you up by</string>
+    <string name="greeting_message_text">Hey there, I\'m Chicken</string>
+    <string name="alarm_has_been_cancelled_text">Chicken is now in a better place</string>
+    <string name="the_following_variables_dont_have_value">The following items have no value:</string>
+    <string name="preferences_have_been_stored">Yay, your preferences have been saved</string>
+    <string name="sounds">Sound</string>
+    <string name="scan_webhhok_qr_code">Scan your WebHook QR code Or fill the text box in the settings panel</string>
+    <string name="settings">Settings</string>
+    <string name="done">Done</string>
+</resources>

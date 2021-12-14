@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="GifUsage">
+        <ignore path="src/main/res/drawable/chicken_default_state.gif" />
+        <ignore path="src/main/res/drawable/chicken_nodding_gif.gif" />
+        <ignore path="src/main/res/drawable/chicken_sad_gif.gif" />
+        <ignore path="src/main/res/drawable/chicken_shouting_gif.gif" />
+    </issue>
+    <issue id="IconLocation">
+        <ignore path="src/main/res/drawable/background.png" />
+        <ignore path="src/main/res/drawable/chicken_default_state.gif" />
+        <ignore path="src/main/res/drawable/chicken_nodding_gif.gif" />
+        <ignore path="src/main/res/drawable/chicken_sad_gif.gif" />
+        <ignore path="src/main/res/drawable/chicken_shouting_gif.gif" />
+        <ignore path="src/main/res/drawable/kokoroko_icon_background.png" />
+        <ignore path="src/main/res/drawable/qr_code_icon.png" />
+        <ignore path="src/main/res/drawable/splash_screen_banner.png" />
+    </issue>
+</lint>
