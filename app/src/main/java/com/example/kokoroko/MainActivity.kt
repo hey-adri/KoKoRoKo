@@ -93,7 +93,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun setMainLayout(){
         setContentView(R.layout.activity_main)
-        vibrate(50)
+        //vibrate(50)
 
 
 
@@ -114,7 +114,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun setSettingsLayout():Boolean{
         currentMood=3
-        vibrate(50)
+        //vibrate(50)
         setContentView(R.layout.settings_layout)
 
         val qrScanImageView = findViewById<ImageView>(R.id.qrScanImageView)
@@ -187,6 +187,7 @@ class MainActivity : AppCompatActivity() {
 
     }
     private fun doneButtonClicked(){
+        vibrate(50)
         playSound(R.raw.click_audio)
         val webhookEditText = findViewById<EditText>(R.id.webHookEditText)
         val soundSwitch = findViewById<Switch>(R.id.SoundSwitch)
@@ -259,7 +260,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun animateToMainlayout() {
         currentMood =0
-        vibrate(50)
+        //vibrate(50)
         val root = findViewById<ConstraintLayout>(R.id.root)
         var set=false
         val startingConstraintSet= ConstraintSet()
